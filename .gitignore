@@ -1,0 +1,13 @@
+.build/
+.swiftpm/
+*.xcodeproj/xcuserdata/
+*.xcworkspace/xcuserdata/
+.DS_Store
+
+# Binarios y logs locales
+build/
+**/Logs/
+*.log
+
+# Intermedios de iconos (se regeneran; se versionan AppIcon.icns e IconUI.png)
+AppBundle/MouseScroll.iconset/
